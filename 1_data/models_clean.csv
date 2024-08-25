@@ -1,0 +1,458 @@
+Entry,Name,Status,Type
+ada-002,Ada,closed,embedding
+af-ai swedish bert,BERT,open,embedding
+albert-base-v1,BERT,open,embedding
+albert-base-v2,BERT,open,embedding
+aleph alphas luminous-base,Luminous,closed,text
+all-distilroberta-base-v1,BERT,open,embedding
+all-distilroberta-base-v2,BERT,open,embedding
+all-minilm-l12-v2,MiniLM,open,embedding
+all-minilm-l6-v2,MiniLM,open,embedding
+all-mpnet-base-v2,MPNet,open,embedding
+alphafold,NA,NA,NA
+anthropic claude,Claude,closed,text
+anthropics claude,Claude,closed,text
+anthropics claude 2,Claude,closed,text
+anthropics claude 3 opus,Claude,closed,text
+aws transcribe,NA,NA,NA
+babyberta,BERT,open,embedding
+baidu ernie,ERNIE,closed,text
+bard,Bard,closed,text
+bard (lamda),Bard,closed,text
+bart,BART,open,other
+bart-base,BART,open,other
+bart-large-mnli,BART,open,other
+bart-mnli,BART,open,other
+base-bert,BERT,open,embedding
+bert,BERT,open,embedding
+bert (bert-base-uncased),BERT,open,embedding
+bert (version not specified),BERT,open,embedding
+bert base,BERT,open,embedding
+bert base model,BERT,open,embedding
+bert for ner,BERT,open,embedding
+bert-base,BERT,open,embedding
+bert-base (cased; 12-layer; 768-hidden; 12-heads; 110m parameters),BERT,open,embedding
+bert-base-cased,BERT,open,embedding
+bert-base-uncased,BERT,open,embedding
+bert-large,BERT,open,embedding
+bert-large-cased,BERT,open,embedding
+bert-large-uncased,BERT,open,embedding
+bertbase (uncased),BERT,open,embedding
+bertlarge (uncased),BERT,open,embedding
+bertopic,BERT,open,embedding
+bertweet,BERT,open,embedding
+bhadresh-savani/bert-base-uncased-emotion,BERT,open,embedding
+bigsciences bloomz,BLOOM,open,text
+bing,(Chat)GPT,closed,text
+bing ai chat,(Chat)GPT,closed,text
+bing chat,(Chat)GPT,closed,text
+biolinkbert,BERT,open,embedding
+biomed-roberta,BERT,open,embedding
+biomed-roberta-long,BERT,open,embedding
+biomedbert,BERT,open,embedding
+blip image captioning base,BLIP,open,image
+blip image captioning large,BLIP,open,image
+bloom,BLOOM,open,text
+bloom-7b,BLOOM,open,text
+chat gpt,(Chat)GPT,closed,text
+chat gpt-3.5,(Chat)GPT,closed,text
+chat-gpt,(Chat)GPT,closed,text
+chatgpt,(Chat)GPT,closed,text
+chatgpt (chatgpt [version 3,(Chat)GPT,closed,text
+chatgpt (compiled on february 16; 2023),(Chat)GPT,closed,text
+chatgpt (feb 13 version),(Chat)GPT,closed,text
+chatgpt (free version),(Chat)GPT,closed,text
+chatgpt (gpt-3.5-turbo-0301),(Chat)GPT,closed,text
+chatgpt (gpt-3.5-turbo),(Chat)GPT,closed,text
+chatgpt (gpt-3.5),(Chat)GPT,closed,text
+chatgpt (gpt-4-0613),(Chat)GPT,closed,text
+chatgpt (gpt-4),(Chat)GPT,closed,text
+chatgpt (openai 2023),(Chat)GPT,closed,text
+chatgpt (version 3.5),(Chat)GPT,closed,text
+chatgpt 3.5,(Chat)GPT,closed,text
+chatgpt 3.5 (09/2023),(Chat)GPT,closed,text
+chatgpt 3.5 turbo,(Chat)GPT,closed,text
+chatgpt 3.5-0301,(Chat)GPT,closed,text
+chatgpt 3.5-turbo,(Chat)GPT,closed,text
+chatgpt 4,(Chat)GPT,closed,text
+chatgpt 4 (09/2023),(Chat)GPT,closed,text
+chatgpt 4 turbo,(Chat)GPT,closed,text
+chatgpt 4.0,(Chat)GPT,closed,text
+chatgpt 4o,(Chat)GPT,closed,text
+chatgpt api,(Chat)GPT,closed,text
+chatgpt api (version 3.5 turbo),(Chat)GPT,closed,text
+chatgpt api (version 4 or 4o),(Chat)GPT,closed,text
+chatgpt gpt-4-0125-preview,(Chat)GPT,closed,text
+chatgpt model 3.5,(Chat)GPT,closed,text
+chatgpt plus (gpt-4),(Chat)GPT,closed,text
+chatgpt v.3.5,(Chat)GPT,closed,text
+chatgpt version 4.0,(Chat)GPT,closed,text
+chatgpt version 4.o,(Chat)GPT,closed,text
+chatgpt-3,(Chat)GPT,closed,text
+chatgpt-3 (february 2023 version),(Chat)GPT,closed,text
+chatgpt-3.5,(Chat)GPT,closed,text
+chatgpt-3.5 (plus),(Chat)GPT,closed,text
+chatgpt-4,(Chat)GPT,closed,text
+chatgpt-4-turbo-preview,(Chat)GPT,closed,text
+chatgpt/gpt-4,(Chat)GPT,closed,text
+chatgpt3,(Chat)GPT,closed,text
+chatgpt4,(Chat)GPT,closed,text
+chatgtp4,(Chat)GPT,closed,text
+chatgtp4 turbo,(Chat)GPT,closed,text
+chatsonic (gpt-4),(Chat)GPT,closed,text
+claude,Claude,closed,text
+claude (claude-2.1),Claude,closed,text
+claude 1.0,Claude,closed,text
+claude 2,Claude,closed,text
+claude 2.0,Claude,closed,text
+claude 3,Claude,closed,text
+claude 3 (temperature 0.7),Claude,closed,text
+claude 3 opus,Claude,closed,text
+claude 3.0,Claude,closed,text
+claude sonnet 3,Claude,closed,text
+claude-2,Claude,closed,text
+claude-2.1,Claude,closed,text
+claude-3 opus,Claude,closed,text
+claude-3-5-sonnet-20240620,Claude,closed,text
+claude-3-opus-20240229,Claude,closed,text
+claude.ai,Claude,closed,text
+claude\s haiku,Claude,closed,text
+clip,CLIP,open,image
+clip (commonpool),CLIP,open,image
+clip (conceptual-12m),CLIP,open,image
+clip (datacomp-1b),CLIP,open,image
+clip (laion-2b),CLIP,open,image
+clip (laion-5b),CLIP,open,image
+clip (openai),CLIP,open,image
+code-davinci-002 (cdv2),(Chat)GPT,closed,text
+codellama2-7b,Llama,open,text
+cohere-embed-english-v3.0,Cohere,closed,embedding
+copilot,Copilot,closed,text
+cpc,NA,NA,NA
+custom word embeddings (doc2vec),doc2vec,open,embedding
+dall-e,Dall-E,closed,image
+dall-e 2,Dall-E,closed,image
+dall-e 3,Dall-E,closed,image
+dall-e 3 with automatic prompt revision,Dall-E,closed,image
+dall·e 2,Dall-E,closed,image
+dalle-2,Dall-E,closed,image
+dalle-3,Dall-E,closed,image
+dall·e2,Dall-E,closed,image
+davinci,NA,NA,NA
+davinci (dv),NA,NA,NA
+davinci-beta (dvb),NA,NA,NA
+dbmdz/bert-large-cased-finetuned-conll03-english,BERT,open,embedding
+deberta,BERT,open,embedding
+deberta (deberta-v3-base),BERT,open,embedding
+deberta v3 large,BERT,open,embedding
+deberta-mnli,BERT,open,embedding
+distilbart,BERT,open,embedding
+distilbert,BERT,open,embedding
+distilbert-base-cased,BERT,open,embedding
+distilbert-base-german-cased,BERT,open,embedding
+distilbert-base-uncased,BERT,open,embedding
+distilbert-base-uncased-finetuned-sst-2-english,BERT,open,embedding
+distilroberta,BERT,open,embedding
+distilroberta-base,BERT,open,embedding
+dnabert,BERT,open,other
+doc2vec model,doc2vec,open,embedding
+electra,ELECTRA,open,embedding
+esmfold,NA,NA,NA
+falcon,Falcon,open,text
+falcon-40b-instruct,Falcon,open,text
+fasttext,FastText,open,embedding
+fasttext (cbow),FastText,open,embedding
+fine-tuned encoder model,NA,NA,NA
+fine-tuned mpnet,MPNet,open,embedding
+fine-tuned phi-3-medium,Phi,open,text
+flair,NA,NA,NA
+flan-t5,FLAN-T5,open,text
+flan-t5 (flan-t5-xxl),FLAN-T5,open,text
+gbert (de),BERT,open,embedding
+gemini,Gemini,closed,text
+gemini 1.0,Gemini,closed,text
+gemini advanced,Gemini,closed,text
+gemma (2b),Gemma,open,text
+gemma (7b),Gemma,open,text
+gemma-7b,Gemma,open,text
+gemmoe-beta-1,Gemma,open,text
+german bert,BERT,open,embedding
+glove,GloVe,open,embedding
+glove common crawl (1.9 million vocabulary; 300 dimensions),GloVe,open,embedding
+google assistant,Bard,closed,text
+google bard,Bard,closed,text
+google bard (2023.09.27),Bard,closed,text
+google bard ai,Bard,closed,text
+google cloud speech-to-text api (unspecified model),Google,closed,audio
+google dialogflow,Google,closed,text
+google gemini,Gemini,closed,text
+googles flan-t5 (xxl),FLAN-T5,open,text
+googles gecko (textembedding-gecko-multilingual@001),Gecko,closed,embedding
+googles universal sentence encoder (universal-sentence-encoder/2),USE,open,embedding
+gpt,(Chat)GPT,closed,text
+gpt 3.5,(Chat)GPT,closed,text
+gpt 3.5 (chatgpt),(Chat)GPT,closed,text
+gpt 3.5-turbo,(Chat)GPT,closed,text
+gpt 4,(Chat)GPT,closed,text
+gpt-2,(Chat)GPT,closed,text
+gpt-2 (774m),(Chat)GPT,closed,text
+gpt-2 large,(Chat)GPT,closed,text
+gpt-2 medium,(Chat)GPT,closed,text
+gpt-2 small,(Chat)GPT,closed,text
+gpt-2 xl,(Chat)GPT,closed,text
+gpt-3,(Chat)GPT,closed,text
+gpt-3 (davinci engine),(Chat)GPT,closed,text
+gpt-3 (text-ada-001),(Chat)GPT,closed,text
+gpt-3 (text-curie-001),(Chat)GPT,closed,text
+gpt-3 (text-davinci-002),(Chat)GPT,closed,text
+gpt-3 (text-davinci-003),(Chat)GPT,closed,text
+gpt-3 ada,(Chat)GPT,closed,text
+gpt-3 babbage,(Chat)GPT,closed,text
+gpt-3 curie,(Chat)GPT,closed,text
+gpt-3 davinci,(Chat)GPT,closed,text
+gpt-3 text-davinci-003,(Chat)GPT,closed,text
+gpt-3.5,(Chat)GPT,closed,text
+gpt-3.5 (text-davinci-003),(Chat)GPT,closed,text
+gpt-3.5 turbo,(Chat)GPT,closed,text
+gpt-3.5 turbo (gpt-3.5-0125),(Chat)GPT,closed,text
+gpt-3.5 turbo (gpt-3.5-turbo-0125),(Chat)GPT,closed,text
+gpt-3.5 turbo 0613,(Chat)GPT,closed,text
+gpt-3.5-0125,(Chat)GPT,closed,text
+gpt-3.5-1106,(Chat)GPT,closed,text
+gpt-3.5-turbo,(Chat)GPT,closed,text
+gpt-3.5-turbo (chatgpt),(Chat)GPT,closed,text
+gpt-3.5-turbo-0125,(Chat)GPT,closed,text
+gpt-3.5-turbo-0613,(Chat)GPT,closed,text
+gpt-3.5-turbo-16k,(Chat)GPT,closed,text
+gpt-3.5-turbo-16k-0613,(Chat)GPT,closed,text
+gpt-4,(Chat)GPT,closed,text
+gpt-4 (gpt-4-0125-preview),(Chat)GPT,closed,text
+gpt-4 (gpt-4-0314),(Chat)GPT,closed,text
+gpt-4 (gpt-4-0613),(Chat)GPT,closed,text
+gpt-4 (gpt-4-1106-preview),(Chat)GPT,closed,text
+gpt-4 (gpt-4-1106),(Chat)GPT,closed,text
+gpt-4 (gpt-4-turbo),(Chat)GPT,closed,text
+gpt-4 (gpt-4o),(Chat)GPT,closed,text
+gpt-4 (gpt4),(Chat)GPT,closed,text
+gpt-4 (march 23; 2023 version),(Chat)GPT,closed,text
+gpt-4 (version 0613),(Chat)GPT,closed,text
+gpt-4 turbo,(Chat)GPT,closed,text
+gpt-4-0125-preview,(Chat)GPT,closed,text
+gpt-4-0613,(Chat)GPT,closed,text
+gpt-4-1106-preview,(Chat)GPT,closed,text
+gpt-4-128k,(Chat)GPT,closed,text
+gpt-4-32k,(Chat)GPT,closed,text
+gpt-4-turbo,(Chat)GPT,closed,text
+gpt-4-turbo (gpt-4-0125-preview),(Chat)GPT,closed,text
+gpt-4-turbo-2024-04-09,(Chat)GPT,closed,text
+gpt-4o,(Chat)GPT,closed,text
+gpt-4o (gpt-4o),(Chat)GPT,closed,text
+gpt-4o-2024-05-13,(Chat)GPT,closed,text
+gpt-4o-mini,(Chat)GPT,closed,text
+gpt-4v,GPT4v,closed,image
+gpt-4v (version gpt-4-vision-preview),GPT4v,closed,image
+gpt-j 6b,GPT-J,open,text
+gpt-neo,GPT Neo,open,text
+gpt-neo 1.3b,GPT Neo,open,text
+gpt-neo 2.7b,GPT Neo,open,text
+gpt2-large,GPT2,open,text
+gpt2-small,GPT2,open,text
+gpt3,(Chat)GPT,closed,text
+gpt3-babbage-001,(Chat)GPT,closed,text
+gpt3-davinci-002,(Chat)GPT,closed,text
+gpt3.5,(Chat)GPT,closed,text
+gpt4,(Chat)GPT,closed,text
+gpt4-1106-preview,(Chat)GPT,closed,text
+gru,NA,NA,NA
+hkunlp/instructor-xl,Instructor,open,embedding
+hugging face distilbert base model (uncased),BERT,open,embedding
+hugging faces bert (distiluse-base-multilingual-cased-v1),BERT,open,embedding
+hugging faces bge-m3 (bge-m3),BGE,open,embedding
+hugging faces jina (jina-embeddings-v2-base-de),Jina,open,embedding
+hugging faces mpnet (paraphrase-multilingual-mpnet-base-v2),MPNet,open,embedding
+hugging faces roberta (xlm-roberta-base-multilingual-en-ar-fr-de-es-tr-it),BERT,open,embedding
+human-aware recurrent transformer (hart),NA,NA,NA
+instruct series gpt-3,(Chat)GPT,closed,text
+jenni.ai,Jenni,closed,text
+k-means,NA,NA,NA
+kb-bert,BERT,open,embedding
+kimi,kimi,closed,text
+llama,Llama,open,text
+llama (llama-3-70b),Llama,open,text
+llama (llama-3-8b),Llama,open,text
+llama 2,Llama,open,text
+llama 2 (7 billion parameters),Llama,open,text
+llama 2 13b (07/2023),Llama,open,text
+llama 2 70b,Llama,open,text
+llama 2 70b (07/2023),Llama,open,text
+llama 2 7b,Llama,open,text
+llama 2 7b (07/2023),Llama,open,text
+llama 2-7b,Llama,open,text
+llama 2.0,Llama,open,text
+llama 3,Llama,open,text
+llama 3 (8 billion parameters),Llama,open,text
+llama 3 (8b),Llama,open,text
+llama 7b,Llama,open,text
+llama large,Llama,open,text
+llama-1-33b 5bit-quantized,Llama,open,text
+llama-13b,Llama,open,text
+llama-2,Llama,open,text
+llama-2-13b,Llama,open,text
+llama-2-13b-chat,Llama,open,text
+llama-2-70b,Llama,open,text
+llama-2-70b-chat,Llama,open,text
+llama-2-7b,Llama,open,text
+llama-2-7b-chat,Llama,open,text
+llama-33b,Llama,open,text
+llama-65b,Llama,open,text
+llama-7b,Llama,open,text
+llama2,Llama,open,text
+llama2-7b,Llama,open,text
+llama3,Llama,open,text
+llama3 (70b),Llama,open,text
+llama3-8b,Llama,open,text
+llamantino,Llama,open,text
+llamantino 2-chat-13b-hf-q8,Llama,open,text
+llav a-1.5,LLaVA,open,text
+lstm,NA,NA,NA
+m-bert,BERT,open,embedding
+math-roberta,BERT,open,embedding
+mentalbert,BERT,open,embedding
+mentallongformer,MentalLongformer,open,embedding
+meta llama,Llama,open,text
+metas llama 2 70-b,Llama,open,text
+midjourney,Midjourney,closed,image
+midjourney (version 5.0),Midjourney,closed,image
+midjourney version 5.2,Midjourney,closed,image
+minilm-l12-h384-uncased,MiniLM,open,embedding
+mistal large,Mistral,open,text
+mistral,Mistral,open,text
+mistral (mistral-7b-v0.3),Mistral,open,text
+mistral 2 7b,Mistral,open,text
+mistral 7b,Mistral,open,text
+mistral 7b v0.1,Mistral,open,text
+mistral 7b-instruct-v0.2-q8,Mistral,open,text
+mistral 7x8b,Mistral,open,text
+mistral 8x7b,Mistral,open,text
+mistral large,Mistral,open,text
+mistral model,Mistral,open,text
+mistral-7b-instruct-v0.1,Mistral,open,text
+mistral-7b-instruct-v0.1.q4_0.guf,Mistral,open,text
+mistral-7b-instruct-v0.2,Mistral,open,text
+mistral-7b-v0.1,Mistral,open,text
+mistral7b,Mistral,open,text
+mixtral-8x7b-0.1 4bit-quantized,Mistral,open,text
+mixtral-8x7b-instruct-v0.1,Mistral,open,text
+mixtral-8x7b-instruct-v0.1-4b,Mistral,open,text
+mixtral-8x7b-v0.1,Mistral,open,text
+mixtral-8x7b-v0.1-4b,Mistral,open,text
+mixtral8x7b,Mistral,open,text
+modified gpt-3,(Chat)GPT,closed,closed
+moonshot kimi,kimi,closed,text
+mpnet,MPNet,open,embedding
+mpnet base v2,MPNet,open,embedding
+multilingualdeberta,BERT,open,embedding
+mxbai-embed-large-v1,Mixedbread,open,embedding
+none,NA,NA,NA
+ocsai davinci llm,NA,NA,NA
+omegafold,NA,NA,NA
+open ai’s chatgpt (december 15 version),(Chat)GPT,closed,text
+open ais text-davinci-003,(Chat)GPT,closed,text
+openai chatgpt-4,(Chat)GPT,closed,text
+openai gpt-3.5,(Chat)GPT,closed,text
+openai gpt-4,(Chat)GPT,closed,text
+openai text-davinci-003,(Chat)GPT,closed,text
+openais chatgpt 3.5,(Chat)GPT,closed,text
+openais chatgpt-4,(Chat)GPT,closed,text
+openais gpt-3,(Chat)GPT,closed,text
+openais gpt-3 (9 january 2023 version),(Chat)GPT,closed,text
+openais gpt-3.5-turbo,(Chat)GPT,closed,text
+openais text-davinci-003,(Chat)GPT,closed,text
+openais text-embedding-3-large,(Chat)GPT,closed,text
+openais text-embedding-3-small,(Chat)GPT,closed,text
+opt-13b,OPT,open,text
+opts mark 1,NA,NA,NA
+palm 2,Palm,closed,text
+paraphrase-multilingual-minilm-l12-v2,MiniLM,open,embedding
+pegasus-large,Pegasus,open,text
+personalized llm,NA,NA,NA
+perspectiveapi,Perspective,closed,text
+phi-1,Phi,open,text
+phi-2,Phi,open,text
+phi-2 (2.7b),Phi,open,text
+pretrained on coco dataset,NA,NA,NA
+psych1,NA,NA,NA
+quillbot,QuillBot,closed,text
+qwen-14b,Qwen,open,text
+qwen-72b,Qwen,open,text
+qwen-7b,Qwen,open,text
+roberta,BERT,open,embedding
+roberta-base,BERT,open,embedding
+roberta-base-go_emotions,BERT,open,embedding
+roberta-large,BERT,open,embedding
+roberta-mnli,BERT,open,embedding
+sbert,BERT,open,embedding
+sbert (all-mpnet-base-v2),MPNet,open,embedding
+sbert (sentence-transformers/all-roberta-large-v1),BERT,open,embedding
+sbert_minilm (paraphrase-multilingual-minilm-l12-v2),MiniLM,open,embedding
+sbert_mpnet (paraphrase-multilingual-mpnet-base-v2),MPNet,open,embedding
+scibert,BERT,open,embedding
+sentence-bert,BERT,open,embedding
+sentence-t5-base,T5,open,embedding
+simsce (simcse-chinese-roberta-wwm-ext),BERT,open,embedding
+sshleifer/distilbart-cnn-12-6,BART,open,other
+stable diffusion,Stable Diffusion,open,image
+stable diffusion sd-xl 1.0,Stable Diffusion,open,image
+stablediffusion,Stable Diffusion,open,image
+standard llm,NA,NA,NA
+swedish spacy,NA,NA,NA
+swedish whisper,Whisper,closed,audio
+t5-base,T5,open,text
+t5-large,T5,open,text
+text-davinci-001,(Chat)GPT,closed,text
+text-davinci-001 (dv1),(Chat)GPT,closed,text
+text-davinci-002 (dv2),(Chat)GPT,closed,text
+text-davinci-003,(Chat)GPT,closed,text
+text-davinci-003 (dv3),(Chat)GPT,closed,text
+text-embedding-3-large,OpenAI,closed,embedding
+text-embedding-ada-002,OpenAI,closed,embedding
+text-to-image genai,NA,NA,NA
+therabots llm,Therabot,closed,text
+tinyllama,Llama,open,text
+transformer,NA,NA,NA
+triposr,TripoSR,open,image
+twitter-xlm-roberta-base,BERT,open,embedding
+universal sentence encoder (use),USE,open,embedding
+unknown/not specified,NA,NA,NA
+unspecified,NA,NA,NA
+vicuna,Vicuna,open,text
+vicuna v1.5 13b,Vicuna,open,text
+vicuna-13b,Vicuna,open,text
+vicuna-7b,Vicuna,open,text
+video-rnn,NA,NA,NA
+vinai/bertweet-base,BERT,open,embedding
+vinai/bertweet-large,BERT,open,embedding
+vit-b/16,CLIP,open,image
+vit-l/16,CLIP,open,image
+voxrex,Voxrex,open,audio
+vqgan-clip,VQGAN-CLIP,open,image
+vt,NA,NA,NA
+watson,Watson,closed,text
+wavegan,WaveGAN,open,audio
+whisper (base),Whisper,closed,other
+whisper (large),Whisper,closed,other
+whisper ai (small),Whisper,closed,other
+wizardvicuna,Vicuna,open,text
+word2vec,word2vec,open,embedding
+word2vec skip-gram algorithm,word2vec,open,embedding
+wordtune,wordtune,closed,text
+xlm-roberta-base,BERT,open,embedding
+xlm-roberta-large,BERT,open,embedding
+xlmroberta,BERT,open,embedding
+youbot,youbot,closed,text
+youchat,youchat,closed,text
+youwrite,youwrite,closed,text
+zephyr-7b-beta,Zephyr,open,text
+zero-shot classifier,NA,NA,NA
+zero-shot-classification pipeline,NA,NA,NA
+zuri,NA,NA,NA

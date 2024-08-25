@@ -1,0 +1,457 @@
+ada-002
+af-ai swedish bert
+albert-base-v1
+albert-base-v2
+aleph alphas luminous-base
+all-distilroberta-base-v1
+all-distilroberta-base-v2
+all-minilm-l12-v2
+all-minilm-l6-v2
+all-mpnet-base-v2
+alphafold
+anthropic claude
+anthropics claude
+anthropics claude 2
+anthropics claude 3 opus
+aws transcribe
+babyberta
+baidu ernie
+bard
+bard (lamda)
+bart
+bart-base
+bart-large-mnli
+bart-mnli
+base-bert
+bert
+bert (bert-base-uncased)
+bert (version not specified)
+bert base
+bert base model
+bert for ner
+bert-base
+bert-base (cased; 12-layer; 768-hidden; 12-heads; 110m parameters)
+bert-base-cased
+bert-base-uncased
+bert-large
+bert-large-cased
+bert-large-uncased
+bertbase (uncased)
+bertlarge (uncased)
+bertopic
+bertweet
+bhadresh-savani/bert-base-uncased-emotion
+bigsciences bloomz
+bing
+bing ai chat
+bing chat
+biolinkbert
+biomed-roberta
+biomed-roberta-long
+biomedbert
+blip image captioning base
+blip image captioning large
+bloom
+bloom-7b
+chat gpt
+chat gpt-3.5
+chat-gpt
+chatgpt
+chatgpt (chatgpt [version 3
+chatgpt (compiled on february 16; 2023)
+chatgpt (feb 13 version)
+chatgpt (free version)
+chatgpt (gpt-3.5-turbo-0301)
+chatgpt (gpt-3.5-turbo)
+chatgpt (gpt-3.5)
+chatgpt (gpt-4-0613)
+chatgpt (gpt-4)
+chatgpt (openai 2023)
+chatgpt (version 3.5)
+chatgpt 3.5
+chatgpt 3.5 (09/2023)
+chatgpt 3.5 turbo
+chatgpt 3.5-0301
+chatgpt 3.5-turbo
+chatgpt 4
+chatgpt 4 (09/2023)
+chatgpt 4 turbo
+chatgpt 4.0
+chatgpt 4o
+chatgpt api
+chatgpt api (version 3.5 turbo)
+chatgpt api (version 4 or 4o)
+chatgpt gpt-4-0125-preview
+chatgpt model 3.5
+chatgpt plus (gpt-4)
+chatgpt v.3.5
+chatgpt version 4.0
+chatgpt version 4.o
+chatgpt-3
+chatgpt-3 (february 2023 version)
+chatgpt-3.5
+chatgpt-3.5 (plus)
+chatgpt-4
+chatgpt-4-turbo-preview
+chatgpt/gpt-4
+chatgpt3
+chatgpt4
+chatgtp4
+chatgtp4 turbo
+chatsonic (gpt-4)
+claude
+claude (claude-2.1)
+claude 1.0
+claude 2
+claude 2.0
+claude 3
+claude 3 (temperature 0.7)
+claude 3 opus
+claude 3.0
+claude sonnet 3
+claude-2
+claude-2.1
+claude-3 opus
+claude-3-5-sonnet-20240620
+claude-3-opus-20240229
+claude.ai
+claude\s haiku
+clip
+clip (commonpool)
+clip (conceptual-12m)
+clip (datacomp-1b)
+clip (laion-2b)
+clip (laion-5b)
+clip (openai)
+code-davinci-002 (cdv2)
+codellama2-7b
+cohere-embed-english-v3.0
+copilot
+cpc
+custom word embeddings (doc2vec)
+dall-e
+dall-e 2
+dall-e 3
+dall-e 3 with automatic prompt revision
+dall·e 2
+dalle-2
+dalle-3
+dall·e2
+davinci
+davinci (dv)
+davinci-beta (dvb)
+dbmdz/bert-large-cased-finetuned-conll03-english
+deberta
+deberta (deberta-v3-base)
+deberta v3 large
+deberta-mnli
+distilbart
+distilbert
+distilbert-base-cased
+distilbert-base-german-cased
+distilbert-base-uncased
+distilbert-base-uncased-finetuned-sst-2-english
+distilroberta
+distilroberta-base
+dnabert
+doc2vec model
+electra
+esmfold
+falcon
+falcon-40b-instruct
+fasttext
+fasttext (cbow)
+fine-tuned encoder model
+fine-tuned mpnet
+fine-tuned phi-3-medium
+flair
+flan-t5
+flan-t5 (flan-t5-xxl)
+gbert (de)
+gemini
+gemini 1.0
+gemini advanced
+gemma (2b)
+gemma (7b)
+gemma-7b
+gemmoe-beta-1
+german bert
+glove
+glove common crawl (1.9 million vocabulary; 300 dimensions)
+google assistant
+google bard
+google bard (2023.09.27)
+google bard ai
+google cloud speech-to-text api (unspecified model)
+google dialogflow
+google gemini
+googles flan-t5 (xxl)
+googles gecko (textembedding-gecko-multilingual@001)
+googles universal sentence encoder (universal-sentence-encoder/2)
+gpt
+gpt 3.5
+gpt 3.5 (chatgpt)
+gpt 3.5-turbo
+gpt 4
+gpt-2
+gpt-2 (774m)
+gpt-2 large
+gpt-2 medium
+gpt-2 small
+gpt-2 xl
+gpt-3
+gpt-3 (davinci engine)
+gpt-3 (text-ada-001)
+gpt-3 (text-curie-001)
+gpt-3 (text-davinci-002)
+gpt-3 (text-davinci-003)
+gpt-3 ada
+gpt-3 babbage
+gpt-3 curie
+gpt-3 davinci
+gpt-3 text-davinci-003
+gpt-3.5
+gpt-3.5 (text-davinci-003)
+gpt-3.5 turbo
+gpt-3.5 turbo (gpt-3.5-0125)
+gpt-3.5 turbo (gpt-3.5-turbo-0125)
+gpt-3.5 turbo 0613
+gpt-3.5-0125
+gpt-3.5-1106
+gpt-3.5-turbo
+gpt-3.5-turbo (chatgpt)
+gpt-3.5-turbo-0125
+gpt-3.5-turbo-0613
+gpt-3.5-turbo-16k
+gpt-3.5-turbo-16k-0613
+gpt-4
+gpt-4 (gpt-4-0125-preview)
+gpt-4 (gpt-4-0314)
+gpt-4 (gpt-4-0613)
+gpt-4 (gpt-4-1106-preview)
+gpt-4 (gpt-4-1106)
+gpt-4 (gpt-4-turbo)
+gpt-4 (gpt-4o)
+gpt-4 (gpt4)
+gpt-4 (march 23; 2023 version)
+gpt-4 (version 0613)
+gpt-4 turbo
+gpt-4-0125-preview
+gpt-4-0613
+gpt-4-1106-preview
+gpt-4-128k
+gpt-4-32k
+gpt-4-turbo
+gpt-4-turbo (gpt-4-0125-preview)
+gpt-4-turbo-2024-04-09
+gpt-4o
+gpt-4o (gpt-4o)
+gpt-4o-2024-05-13
+gpt-4o-mini
+gpt-4v
+gpt-4v (version gpt-4-vision-preview)
+gpt-j 6b
+gpt-neo
+gpt-neo 1.3b
+gpt-neo 2.7b
+gpt2-large
+gpt2-small
+gpt3
+gpt3-babbage-001
+gpt3-davinci-002
+gpt3.5
+gpt4
+gpt4-1106-preview
+gru
+hkunlp/instructor-xl
+hugging face distilbert base model (uncased)
+hugging faces bert (distiluse-base-multilingual-cased-v1)
+hugging faces bge-m3 (bge-m3)
+hugging faces jina (jina-embeddings-v2-base-de)
+hugging faces mpnet (paraphrase-multilingual-mpnet-base-v2)
+hugging faces roberta (xlm-roberta-base-multilingual-en-ar-fr-de-es-tr-it)
+human-aware recurrent transformer (hart)
+instruct series gpt-3
+jenni.ai
+k-means
+kb-bert
+kimi
+llama
+llama (llama-3-70b)
+llama (llama-3-8b)
+llama 2
+llama 2 (7 billion parameters)
+llama 2 13b (07/2023)
+llama 2 70b
+llama 2 70b (07/2023)
+llama 2 7b
+llama 2 7b (07/2023)
+llama 2-7b
+llama 2.0
+llama 3
+llama 3 (8 billion parameters)
+llama 3 (8b)
+llama 7b
+llama large
+llama-1-33b 5bit-quantized
+llama-13b
+llama-2
+llama-2-13b
+llama-2-13b-chat
+llama-2-70b
+llama-2-70b-chat
+llama-2-7b
+llama-2-7b-chat
+llama-33b
+llama-65b
+llama-7b
+llama2
+llama2-7b
+llama3
+llama3 (70b)
+llama3-8b
+llamantino
+llamantino 2-chat-13b-hf-q8
+llav a-1.5
+lstm
+m-bert
+math-roberta
+mentalbert
+mentallongformer
+meta llama
+metas llama 2 70-b
+midjourney
+midjourney (version 5.0)
+midjourney version 5.2
+minilm-l12-h384-uncased
+mistal large
+mistral
+mistral (mistral-7b-v0.3)
+mistral 2 7b
+mistral 7b
+mistral 7b v0.1
+mistral 7b-instruct-v0.2-q8
+mistral 7x8b
+mistral 8x7b
+mistral large
+mistral model
+mistral-7b-instruct-v0.1
+mistral-7b-instruct-v0.1.q4_0.guf
+mistral-7b-instruct-v0.2
+mistral-7b-v0.1
+mistral7b
+mixtral-8x7b-0.1 4bit-quantized
+mixtral-8x7b-instruct-v0.1
+mixtral-8x7b-instruct-v0.1-4b
+mixtral-8x7b-v0.1
+mixtral-8x7b-v0.1-4b
+mixtral8x7b
+modified gpt-3
+moonshot kimi
+mpnet
+mpnet base v2
+multilingualdeberta
+mxbai-embed-large-v1
+none
+ocsai davinci llm
+omegafold
+open ai’s chatgpt (december 15 version)
+open ais text-davinci-003
+openai chatgpt-4
+openai gpt-3.5
+openai gpt-4
+openai text-davinci-003
+openais chatgpt 3.5
+openais chatgpt-4
+openais gpt-3
+openais gpt-3 (9 january 2023 version)
+openais gpt-3.5-turbo
+openais text-davinci-003
+openais text-embedding-3-large
+openais text-embedding-3-small
+opt-13b
+opts mark 1
+palm 2
+paraphrase-multilingual-minilm-l12-v2
+pegasus-large
+personalized llm
+perspectiveapi
+phi-1
+phi-2
+phi-2 (2.7b)
+pretrained on coco dataset
+psych1
+quillbot
+qwen-14b
+qwen-72b
+qwen-7b
+roberta
+roberta-base
+roberta-base-go_emotions
+roberta-large
+roberta-mnli
+sbert
+sbert (all-mpnet-base-v2)
+sbert (sentence-transformers/all-roberta-large-v1)
+sbert_minilm (paraphrase-multilingual-minilm-l12-v2)
+sbert_mpnet (paraphrase-multilingual-mpnet-base-v2)
+scibert
+sentence-bert
+sentence-t5-base
+simsce (simcse-chinese-roberta-wwm-ext)
+sshleifer/distilbart-cnn-12-6
+stable diffusion
+stable diffusion sd-xl 1.0
+stablediffusion
+standard llm
+swedish spacy
+swedish whisper
+t5-base
+t5-large
+text-davinci-001
+text-davinci-001 (dv1)
+text-davinci-002 (dv2)
+text-davinci-003
+text-davinci-003 (dv3)
+text-embedding-3-large
+text-embedding-ada-002
+text-to-image genai
+therabots llm
+tinyllama
+transformer
+triposr
+twitter-xlm-roberta-base
+universal sentence encoder (use)
+unknown/not specified
+unspecified
+vicuna
+vicuna v1.5 13b
+vicuna-13b
+vicuna-7b
+video-rnn
+vinai/bertweet-base
+vinai/bertweet-large
+vit-b/16
+vit-l/16
+voxrex
+vqgan-clip
+vt
+watson
+wavegan
+whisper (base)
+whisper (large)
+whisper ai (small)
+wizardvicuna
+word2vec
+word2vec skip-gram algorithm
+wordtune
+xlm-roberta-base
+xlm-roberta-large
+xlmroberta
+youbot
+youchat
+youwrite
+zephyr-7b-beta
+zero-shot classifier
+zero-shot-classification pipeline
+zuri
