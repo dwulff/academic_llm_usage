@@ -22,8 +22,8 @@ This repository accompanies the following <a href="">comment</a> and shares the 
 
 We analyzed the distribution of LLMs used in the behavioral and social sciences by taking the following steps: 
 
-1. Identify articles on OSF, PsyArXiv, and SocArXiv matching the keywords LLM, LLMs, large language model, large language models, AI, and artificial intelligence (see 0_get_article_links_*.py)
-2. Download articles and article information (see 1_get_article_info.R)
-3. Extract the names of LLMs used within articles using Llama-3.1-405B-Instruct (see 2_process_articles.py)
-4. Manually clean LLM names and label open or closed (see 3_clean.R and models_clean.csv)
-5. Analyze the distribution of open and closed LLMs (see 4_analyze.R)
+1. Identify articles on OSF, PsyArXiv, and SocArXiv matching the keywords LLM, LLMs, large language model, large language models, AI, and artificial intelligence (see [0_get_article_links_*.py](2_code))
+2. Download articles and article information (see [1_get_article_info.R](2_code/1_get_article_info.R))
+3. Extract the names of LLMs used within articles using Llama-3.1-405B-Instruct (see [2_process_articles.py](2_code/2_process_articles.py))
+4. Manually clean LLM names and label them open or closed (see [3_clean.R](2_code/3_clean.R) and [models_clean.csv](1_data/models_clean.csv))
+5. Analyze the distribution of open and closed LLMs (see [4_analyze.R](2_code/4_analyze.R))
