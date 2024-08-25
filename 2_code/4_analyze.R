@@ -48,8 +48,8 @@ p = model_count |>
   scale_color_manual(values = cols) +
   scale_fill_manual(values = cols) +
   scale_y_continuous(limits=c(0, 100)) +
-  labs(title = "Behavioral and social science research still favors <span style = 'color:#3E4D93FF'><b>closed</b></span> over <span style = 'color:#49C1ADFF'><b>open</b></span> LLMs",
-       subtitle = "Analysis of 2,144 articles published on OSF, PsyArXiv, and SocArXiv matching the\nkeywords large language model(s), LLM(s), or artificial intelligence (AI). Processed\nusing Llama-3.1-405B.",
+  labs(title = "<span style = 'color:#3E4D93FF'><b>Closed</b></span> versus <span style = 'color:#49C1ADFF'><b>open</b></span> LLMs in the behavioral and social sciences",
+       subtitle = "Analysis of 2,144 articles published on OSF, PsyArXiv, and SocArXiv matching the keywords large language\nmodel(s), LLM(s), or artificial intelligence (AI). Processed with Llama-3.1-405B.",
        y = "Number of articles using the LLM",
        caption = "Created by @dirkuwulff, 2024")+
   coord_cartesian(clip = "off") +
@@ -59,6 +59,6 @@ p = model_count |>
         plot.title = ggtext::element_textbox_simple(size = 20,
                                                     lineheight = 1, padding = margin(0, -60, 10, 0)))
 
-ggsave("models.png",device = "png", plot = p, width = 7, height=7, bg = "white") 
+ggsave("3_figures/models.png",device = "png", plot = p, width = 9, height=6, bg = "white") 
 
 
