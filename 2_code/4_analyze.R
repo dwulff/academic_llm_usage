@@ -35,7 +35,7 @@ cols = c(viridis::mako(3, begin=.3, end = .4),
          viridis::mako(3, begin=.7, end = .8))
 
 p = model_count |> 
-  mutate(model = factor(model, levels = c("(Chat)GPT","Gemini","Claude","BERTs","Llama","Mistral"))) |> 
+  mutate(model = factor(model, levels = c("(Chat)GPT","Gemini","Claude","BERT","Llama","Mistral"))) |> 
   ggplot(aes(quarter, count, col = model, fill = model, group = model)) +
   geom_text(data = model_count |> filter(quarter == "2024-Q2") |> 
               mutate(count = count + c(0,-1,1,1.1,1.1,0)), 
